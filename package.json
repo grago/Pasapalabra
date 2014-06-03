@@ -1,0 +1,18 @@
+{
+  "name": "pasapalabra",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js",
+    "test": "grunt --verbose"
+  },
+  "devDependencies": {
+    "grunt": "0.4.1",
+    "grunt-cli": "0.1.9",
+    "grunt-contrib-jshint": "*"
+  },  
+  "dependencies": {
+    "express": "3.5.1",
+    "jade": "*"
+  }
+}
